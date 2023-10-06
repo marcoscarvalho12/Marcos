@@ -14,19 +14,20 @@
   </head>
 
   <body>
+
     <div class="contentner">
-        <div class="ron">
-        <div class="col-8"> 
-            coluna 1 a 8
-            <div>
-           <div class="col-4">
-            coluna 9-12
-         <div> 
-    
-     <div>   
-    
+    <div class="ron">
+    <div class="col-8"> 
+        coluna 1 a 8
+        <div>
+       <div class="col-4">
+        coluna 9-12
+        <div> 
+
+        <div>   
+
  </div>
-    
+
 
 
     <!-- JavaScript (Opcional) -->
