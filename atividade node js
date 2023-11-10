@@ -1,0 +1,16 @@
+const express = require('express');
+const exphbs = require('express-handlebars');
+
+handlebars
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Exemplo Handlebars</title>
+</head>
+<body>
+  <h1>Olá, {{name}}!</h1>
+</body>
+</html>
+
+
+
