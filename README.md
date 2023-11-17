@@ -1,6 +1,13 @@
-# Marcos
-Aulas
-const express = require('express');
- const app = express();
- const port = 3000
-const exphbs = require('express-handlebars')
+<div class="container-fluid col-6">
+<form>
+<div class="form-group">
+<label for="nome">Nome:</label>
+<input type="text" class="form-control" id="nome" placeholder="Digite seu Nome...">
+</div>
+<div class="form-group">
+<label for="idade">Idade:</label>
+<input type="text" class="form-control" id="idade" placeholder="Digite sua idade...">
+</div>
+<button type="submit" class="btn btn-primary">Enviar</button>
+</form>
+</div>
