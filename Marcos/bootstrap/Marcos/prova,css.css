@@ -1,0 +1,52 @@
+html
+<style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+
+  .car {
+    background-color: #124a6f;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .car img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+<style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+
+  .car {
+    background-color: #a83a5e;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .car img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+</style>
+
+<div class="grid-container">
+  <div class="car">
+    <img src="carro 1.png" alt="Carro 1">
+    <p>Carro 1</p>
+  </div>
+  <div class="car">
+    <img src="carro 2.png" alt="Carro 2">
+    <p>Carro 2</p>
+  </div>
+  <div class="car">
+    <img src="carro 3.png" alt="Carro 3">
+    <p>Carro 3</p>
+  </div>
+</div>
+
